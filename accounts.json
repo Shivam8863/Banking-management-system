@@ -1,0 +1,31 @@
+{
+    "123": {
+        "name": "apple",
+        "balance": 843.0,
+        "transactions": [
+            "[2025-06-25 00:29:05] Account created with \u20b9101.0",
+            "[2025-06-25 00:29:32] Deposited \u20b9100.0",
+            "[2025-06-25 00:29:34] Deposited \u20b9100.0",
+            "[2025-06-25 00:29:38] Deposited \u20b9106.0",
+            "[2025-06-25 00:29:42] Withdrew \u20b9109.0",
+            "[2025-06-25 00:29:48] Deposited \u20b9109.0",
+            "[2025-06-25 00:29:54] Deposited \u20b9118.0",
+            "[2025-06-25 00:29:57] Deposited \u20b9118.0",
+            "[2025-06-25 00:30:02] Deposited \u20b9200.0"
+        ]
+    },
+    "124": {
+        "name": "ball",
+        "balance": 102.0,
+        "transactions": [
+            "[2025-06-25 00:29:20] Account created with \u20b9102.0"
+        ]
+    },
+    "1234": {
+        "name": "abc",
+        "balance": 100.0,
+        "transactions": [
+            "[2025-07-10 13:03:17] Account created with \u20b9100.0"
+        ]
+    }
+}
